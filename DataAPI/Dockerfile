@@ -27,4 +27,4 @@ COPY --from=build /app/out .
 EXPOSE 80
 
 # Command to run the Web API
-ENTRYPOINT ["dotnet", "MyWebAPI.dll"]
+ENTRYPOINT ["dotnet", "DataAPI.dll"]
