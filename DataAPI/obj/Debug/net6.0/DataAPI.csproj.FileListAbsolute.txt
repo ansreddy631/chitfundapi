@@ -39,4 +39,5 @@
 /Users/supriyareddy/Downloads/chitfundapi/DataAPI/obj/Debug/net6.0/DataAPI.pdb
 /Users/supriyareddy/Downloads/chitfundapi/DataAPI/obj/Debug/net6.0/DataAPI.genruntimeconfig.cache
 /Users/supriyareddy/Downloads/chitfundapi/DataAPI/obj/Debug/net6.0/ref/DataAPI.dll
-/Users/supriyareddy/Downloads/chitfundapi/DataAPI/obj/Debug/net6.0/DataAPI.csproj.CopyComplete
+/Users/supriyareddy/Downloads/chitfundapi/DataAPI/obj/Debug/net6.0/DataAPI.sourcelink.json
+/Users/supriyareddy/Downloads/chitfundapi/DataAPI/obj/Debug/net6.0/DataAPI.csproj.Up2Date
