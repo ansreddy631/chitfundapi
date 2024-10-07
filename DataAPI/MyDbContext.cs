@@ -9,6 +9,7 @@ public class MyDbContext : DbContext
     public DbSet<Person> Persons { get; set; }
     public DbSet<Month> Months { get; set; }
     public DbSet<PaymentByMonth> PaymentByMonths { get; set; }
+    public DbSet<ChitFund> ChitFunds { get; set; }
     //public DbSet<ChitFund> ChitFunds { get; set; }
 
     public MyDbContext(DbContextOptions<MyDbContext> options) : base(options) { }

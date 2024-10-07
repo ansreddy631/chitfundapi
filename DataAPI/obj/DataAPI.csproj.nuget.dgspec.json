@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/supriyareddy/Downloads/chitfundapi/DataAPI/DataAPI.csproj": {}
+    "/Users/supriyareddy/Downloads/chitfundapi_new/DataAPI/DataAPI.csproj": {}
   },
   "projects": {
-    "/Users/supriyareddy/Downloads/chitfundapi/DataAPI/DataAPI.csproj": {
+    "/Users/supriyareddy/Downloads/chitfundapi_new/DataAPI/DataAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/supriyareddy/Downloads/chitfundapi/DataAPI/DataAPI.csproj",
+        "projectUniqueName": "/Users/supriyareddy/Downloads/chitfundapi_new/DataAPI/DataAPI.csproj",
         "projectName": "DataAPI",
-        "projectPath": "/Users/supriyareddy/Downloads/chitfundapi/DataAPI/DataAPI.csproj",
+        "projectPath": "/Users/supriyareddy/Downloads/chitfundapi_new/DataAPI/DataAPI.csproj",
         "packagesPath": "/Users/supriyareddy/.nuget/packages/",
-        "outputPath": "/Users/supriyareddy/Downloads/chitfundapi/DataAPI/obj/",
+        "outputPath": "/Users/supriyareddy/Downloads/chitfundapi_new/DataAPI/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -46,6 +46,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.33, )"
